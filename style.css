@@ -147,7 +147,7 @@ section {
   margin-top: 20px;
   margin-bottom: 40px;
   padding: 50px;
-  background: url("./webdev.jpg") no-repeat top center;
+  background: url("webdev.jpg") no-repeat top center;
   background-size: 250px;
   position: relative;
 }
@@ -174,7 +174,7 @@ section {
   margin-top: 20px;
   margin-bottom: 40px;
   padding: 50px;
-  background: url("./appdev.jpg") no-repeat top center;
+  background: url("appdev.jpg") no-repeat top center;
   background-size: 350px;
   position: relative;
 }
@@ -202,7 +202,7 @@ section {
   margin-top: 20px;
   margin-bottom: 40px;
   padding: 50px;
-  background: url("./ml.jpg") no-repeat top center;
+  background: url("ml.jpg") no-repeat top center;
   background-size: 270px;
   position: relative;
 }
