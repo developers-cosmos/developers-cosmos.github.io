@@ -31,7 +31,7 @@ a {
 header {
   width: 100%;
   height: 100vh;
-  background: url("./unsplashcoding.jpg") no-repeat;
+  background: url("unsplashcoding.jpg") no-repeat;
   background-size: cover;
   border-bottom: 20px solid var(--primary-color);
 }
