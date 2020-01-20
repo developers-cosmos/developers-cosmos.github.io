@@ -31,7 +31,7 @@ a {
 header {
   width: 100%;
   height: 100vh;
-  background: url("./images/unsplashcoding.jpg") no-repeat;
+  background: url("./unsplashcoding.jpg") no-repeat;
   background-size: cover;
   border-bottom: 20px solid var(--primary-color);
 }
@@ -126,9 +126,6 @@ section {
   font-size: xx-large;
 }
 
-.figure {
-  border: 5px solid red;
-}
 
 #para1,
 #para2,
@@ -150,7 +147,7 @@ section {
   margin-top: 20px;
   margin-bottom: 40px;
   padding: 50px;
-  background: url("./images/webdev.jpg") no-repeat top center;
+  background: url("./webdev.jpg") no-repeat top center;
   background-size: 250px;
   position: relative;
 }
@@ -177,15 +174,15 @@ section {
   margin-top: 20px;
   margin-bottom: 40px;
   padding: 50px;
-  background: url("./images/appdev.jpg") no-repeat top center;
+  background: url("./appdev.jpg") no-repeat top center;
   background-size: 350px;
-
   position: relative;
 }
 
 .card2 {
   background-color: #e84e09;
 }
+
 .card2 > div {
   /* border: 5px solid red; */
   position: absolute;
@@ -196,6 +193,7 @@ section {
 
   justify-content: center;
 }
+
 .card3 {
   width: 250px;
   height: 180px;
@@ -204,7 +202,7 @@ section {
   margin-top: 20px;
   margin-bottom: 40px;
   padding: 50px;
-  background: url("./images/ml.jpg") no-repeat top center;
+  background: url("./ml.jpg") no-repeat top center;
   background-size: 270px;
   position: relative;
 }
@@ -212,15 +210,14 @@ section {
 .card3 {
   background-color: #e84e09;
 }
+
 .card3 > div {
   /* border: 5px solid red; */
   position: absolute;
   left: 55px;
-
   color: #fff;
   font-weight: bold;
   margin-top: 100px;
-
   justify-content: center;
 }
 
@@ -229,7 +226,6 @@ section {
   flex-direction: row;
   flex: 3;
   flex-wrap: wrap;
-
   align-items: center;
   justify-content: space-around;
 }
