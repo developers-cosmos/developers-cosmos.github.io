@@ -207,6 +207,7 @@ section {
   background: url("./images/ml.jpg") no-repeat top center;
   background-size: 270px;
   position: relative;
+  border-radius: 5px;
 }
 
 .card3 {
